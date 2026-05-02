@@ -8,7 +8,7 @@
   "pitch": 0,
   "sources": {
     "openmaptiles": {
-      "url": "https://tiles.lightfield.ag/planet-06-30-23-osm-maxzoom-12.json",
+      "url": "https://tiles.lightfield.ag/2026-05-01-planet-osm.json",
       "type": "vector"
     }
   },
